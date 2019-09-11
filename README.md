@@ -29,7 +29,6 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 55px;">2019</td>
 </tr>
 
-
 <tr>
 <td style="width: 28px;">&nbsp;2</td>
 <td style="width: 172px;">Yan Zhang, Jonathon Hare, Adam Pr&uuml;gel-Bennett:&nbsp;<strong>Learning to Count Objects in Natural Images for Visual Question Answering</strong></td>
@@ -390,6 +389,79 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 55px;">2018</td>
 </tr>
 
+
+<tr>
+<td style="width: 28px;">44&nbsp;</td>
+<td style="width: 172px;"><strong>Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering (ICCV 2017)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1708.01471">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/yuzcccc/vqa-mfb">[Code]</a>&nbsp;</td>
+<td style="width: 55px;">2017</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">45&nbsp;</td>
+<td style="width: 172px;"><strong>Beyond Bilinear: Generalized Multimodal Factorized High-Order Pooling for Visual Question Answering</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1708.03619">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/yuzcccc/vqa-mfb">[Code]</a>&nbsp;</td>
+<td style="width: 55px;">2017</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">46&nbsp;</td>
+<td style="width: 172px;"><strong>Learning to Reason: End-to-End Module Networks for Visual Question Answering (ICCV 2017)
+</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/pdf/1704.05526.pdf">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/ronghanghu/n2nmn">[Code]</a>&nbsp;</td>
+<td style="width: 55px;">2017</td>
+</tr>
+
+<tr>
+<td style="width: 28px;">47&nbsp;</td>
+<td style="width: 172px;"><strong>Learning Conditioned Graph Structures for Interpretable Visual Question Answering
+
+</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1806.07243">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/aimbrain/vqa-project">[Code]</a>&nbsp;</td>
+<td style="width: 55px;">2017</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">48&nbsp;</td>
+<td style="width: 172px;"><strong>VIBIKNet: Visual Bidirectional Kernelized Network for Visual Question Answering</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/pdf/1612.03628.pdf">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/MarcBS/VIBIKNet">[Code]</a>&nbsp;</td>
+<td style="width: 55px;">2017</td>
+</tr>
+
+<tr>
+<td style="width: 28px;">&nbsp;49</td>
+<td style="width: 172px;"><strong>OmniNet: A unified architecture for multi-modal multi-task learning</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1907.07804">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/subho406/OmniNet">[Code]</a></td>
+<td style="width: 55px;">2019</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;50</td>
+<td style="width: 172px;"><strong>Learning Visual Question Answering by Bootstrapping Hard Attention</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/pdf/1808.00300.pdf">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/gnouhp/PyTorch-AdaHAN">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+<tr>
+<td style="width: 28px;">&nbsp;51</td>
+<td style="width: 172px;"><strong>Transfer Learning via Unsupervised Task Discovery for Visual Question Answering</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1810.02358">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/HyeonwooNoh/vqa_task_discovery/">[Code]</a></td>
+<td style="width: 55px;">2019</td>
+</tr>
+
+
 </tbody>
 </table>
 
@@ -454,8 +526,69 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 141px;">&nbsp;<a href="https://github.com/white127/QA-deep-learning" >[Code]</a>&nbsp;</td>
 </tr>
 
+<tr>
+<td style="width: 29px;">8&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>Keras DL models (Kaggle AllenAI competition)</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/sujitpal/dl-models-for-qa" >[Code]</a>&nbsp;</td>
+</tr>
 
+<tr>
+<td style="width: 29px;">10&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>Modular & Simple approach to VQA in Keras</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/iamaaditya/VQA_Keras" >[Code]</a>&nbsp;</td>
+</tr>
 
+<tr>
+<td style="width: 29px;">11&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>CNN+LSTM, Attention based, and MUTAN-based models for Visual Question Answering</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/Shivanshu-Gupta/Visual-Question-Answering" >[Code]</a>&nbsp;</td>
+</tr>
+
+<tr>
+<td style="width: 29px;">12&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>Stacked attention networks for image question answering</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/zcyang/imageqa-san" >[Code]</a>&nbsp;</td>
+</tr>
+
+<tr>
+<td style="width: 29px;">13&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>Relation Networks and Sort-of-CLEVR in Tensorflow</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/HyeonwooNoh/Relation-Network-Tensorflow" >[Code]</a>&nbsp;</td>
+</tr>
+
+<tr>
+<td style="width: 29px;">14&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>An attention based model for VQA using a dilated convolutional neural network</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/paarthneekhara/convolutional-vqa" >[Code]</a>&nbsp;</td>
+</tr>
+
+<tr>
+<td style="width: 29px;">15&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>Object detection-based Visual Question Answering</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/andfoy/vqa-detection" >[Code]</a>&nbsp;</td>
+</tr>
+
+<tr>
+<td style="width: 29px;">15&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>Visual question answering using output captions from densecap</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/manji369/VisualQA_from_densecap" >[Code]</a>&nbsp;</td>
+</tr>
 
 </tbody>
 </table>
@@ -507,4 +640,19 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 </tr>
 
 
+</table>
+
+<p><strong><span style="color: red;">Blog Paper with Code</span></strong></p>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Link</th>
+  </tr>
+   
+  <tr>
+    <td>Visual Question Answering Demo in Python Notebook</td>
+    <td><a href="https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook">Link</a></td>
+
+  </tr>
+  
 </table>
