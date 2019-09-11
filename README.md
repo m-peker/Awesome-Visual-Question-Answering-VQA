@@ -4,9 +4,14 @@
 
 A reading list (and code) of resources dedicated to visual(image/video) question answering.
 
+<strong>Contributing</strong>
+
+Please feel free to send me email (pekermusa@gmail.com) to add links.
+
 <p><strong><span style="color: red;">Papers and Codes</span></strong></p>
 <table style="height: 225px; width: 439px;">
 <tbody>
+  
 <tr>
 <td style="width: 28px;">&nbsp;</td>
 <td style="width: 172px;"><strong>Title</strong></td>
@@ -14,6 +19,122 @@ A reading list (and code) of resources dedicated to visual(image/video) question
 <td style="width: 70px; text-align: center;"><strong>Code</strong></td>
 <td style="width: 55px;"><strong>Year</strong></td>
 </tr>
+  
+  
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Deep Modular Co-Attention Networks for Visual Question Answering (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/MILVLG/mcan-vqa">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;">Yan Zhang, Jonathon Hare, Adam Pr&uuml;gel-Bennett:&nbsp;<strong>Learning to Count Objects in Natural Images for Visual Question Answering</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1802.05766" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/Cyanogenoid/vqa-counting">[Code]</a></td>
+<td style="width: 55px;">2019</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1903.10547" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/yaohungt/Gated-Spatio-Temporal-Energy-Graph">[Code]</a></td>
+<td style="width: 55px;">2019</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>MUREL: Multimodal Relational Reasoning for Visual Question Answering  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.09487" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/Cadene/murel.bootstrap.pytorch">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>RAVEN: A Dataset for Relational and Analogical Visual Reasoning  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1903.02741" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="http://wellyzhang.github.io/project/raven.html">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+
+
+---------------
+  
+  
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;">Yan Zhang, Jonathon Hare, Adam Pr&uuml;gel-Bennett:&nbsp;<strong>Learning to Count Objects in Natural Images for Visual Question Answering</strong></td>
