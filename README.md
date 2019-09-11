@@ -389,14 +389,6 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/jnhwkim/ban-vqa">[Code]</a>&nbsp;</td>
 <td style="width: 55px;">2018</td>
 </tr>
-<tr>
-<td style="width: 28px;">44&nbsp;</td>
-<td style="width: 172px;">&nbsp;</td>
-<td style="width: 80px;">&nbsp;</td>
-<td style="width: 70px;">&nbsp;</td>
-<td style="width: 55px;">&nbsp;</td>
-</tr>
-<tr>
 
 </tbody>
 </table>
@@ -453,11 +445,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 </td>
 <td style="width: 141px;">&nbsp;<a href="https://github.com/allenai/deep_qa" >[Code]</a>&nbsp;</td>
 </tr>
-<tr>
-<td style="width: 29px;">&nbsp;</td>
-<td style="width: 258px;">&nbsp;</td>
-<td style="width: 141px;">&nbsp;</td>
-</tr>
+
 </tbody>
 </table>
 <th>
