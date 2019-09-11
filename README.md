@@ -257,7 +257,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <p><strong>Stacked Attention Networks for Image Question Answering</strong></p>
 </td>
 <td style="width: 80px;">&nbsp;<a href="http://arxiv.org/abs/1511.02274" rel="nofollow">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href=" https://github.com/abhshkdz/neural-vqa-attention" rel="nofollow">[Code]</a></td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/abhshkdz/neural-vqa-attention">[Code]</a></td>
 <td style="width: 55px;">2016</td>
 </tr>
 <tr>
