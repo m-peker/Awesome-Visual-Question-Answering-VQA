@@ -84,56 +84,90 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 </tr>
 
 
-
----------------
-  
-  
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
-<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 172px;"><strong>BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection
+(AAAI 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.00038" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/Cadene/block.bootstrap.pytorch">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 
 
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
-<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 172px;"><strong>Dynamic Capsule Attention for Visual Question Answering (AAAI 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi2.3610.pdf" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/XMUVQA/CapsAtt">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
-<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 172px;"><strong>Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering
+(AAAI 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://www.semanticscholar.org/paper/Beyond-RNNs%3A-Positional-Self-Attention-with-for-Li-Song/565359aac8914505e6b02db05822ee63d3ffd03a" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/lixiangpengcs/PSAC">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
-<td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
+<td style="width: 172px;"><strong>Free VQA Models from Knowledge Inertia by Pairwise Inconformity Learning (AAAI 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi1.1233.pdf" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/xiangmingLi/PIL">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 
+--
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Focal Visual-Text Attention for Memex Question Answering (TPAMI 2019)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8603827/" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://memexqa.cs.cmu.edu/">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
 
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Co-Attending Free-Form Regions and Detections with Multi-Modal Multiplicative Feature Embedding for Visual Question Answering (AAAI 2018)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16249" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/lupantech/dual-mfa-vqa/">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>
   
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Textbook Question Answering Under Instructor Guidance With Memory Networks  (CVPR 2018)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Textbook_Question_Answering_CVPR_2018_paper.html" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/freerailway/igmn">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr> 
   
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Explore Multi-Step Reasoning in Video Question Answering  (ACM MM 2018)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://doi.org/10.1145/3240508.3240563" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/SVQA-founder/SVQA/tree/master/code">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr> 
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>Visual Question Generation for Class Acquisition of Unknown Objects (ECCV 2018)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Kohei_Uehara_Visual_Question_Generation_ECCV_2018_paper.html" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/mil-tokyo/vqg-unknown">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr> 
+
+<tr>
+<td style="width: 28px;">&nbsp;1</td>
+<td style="width: 172px;"><strong>A Better Way to Attend: Attention With Trees for Video Question Answering (TIP 2018)</strong></td>
+<td style="width: 80px;">&nbsp;<a href="https://ieeexplore.ieee.org/document/8419716" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;"><a href="https://github.com/xuehy/TreeAttention">[Code]</a></td>
+<td style="width: 55px;">2018</td>
+</tr>  
   
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
