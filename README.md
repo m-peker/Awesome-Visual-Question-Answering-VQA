@@ -446,6 +446,17 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 141px;">&nbsp;<a href="https://github.com/allenai/deep_qa" >[Code]</a>&nbsp;</td>
 </tr>
 
+<tr>
+<td style="width: 29px;">8&nbsp;</td>
+<td style="width: 258px;">
+<p><strong>CNN, LSTM + CNN, SWEM on Insurance-QA data</strong></p>
+</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/white127/QA-deep-learning" >[Code]</a>&nbsp;</td>
+</tr>
+
+
+
+
 </tbody>
 </table>
 <th>
@@ -494,4 +505,6 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td>MemexQA dataset</td>
 <td><a href="https://memexqa.cs.cmu.edu/#dataset">Link</a></td>
 </tr>
+
+
 </table>
