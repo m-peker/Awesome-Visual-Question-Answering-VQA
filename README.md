@@ -2,7 +2,7 @@
 
 <img src="VQA.jpg"></img>
 
-A reading list (and code) of resources dedicated to visual(image/video) question answering.
+A reading list (and code) of resources dedicated to visual question answering.
 
 <strong>Contributing</strong>
 
