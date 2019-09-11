@@ -24,7 +24,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Deep Modular Co-Attention Networks for Visual Question Answering (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/MILVLG/mcan-vqa">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -33,7 +33,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;">Yan Zhang, Jonathon Hare, Adam Pr&uuml;gel-Bennett:&nbsp;<strong>Learning to Count Objects in Natural Images for Visual Question Answering</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1802.05766" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1802.05766">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cyanogenoid/vqa-counting">[Code]</a></td>
 <td style="width: 55px;">2019</td>
 </tr>
@@ -42,7 +42,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1903.10547" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1903.10547">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/yaohungt/Gated-Spatio-Temporal-Energy-Graph">[Code]</a></td>
 <td style="width: 55px;">2019</td>
 </tr>
@@ -60,7 +60,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>MUREL: Multimodal Relational Reasoning for Visual Question Answering  (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.09487" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.09487" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cadene/murel.bootstrap.pytorch">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -69,7 +69,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>RAVEN: A Dataset for Relational and Analogical Visual Reasoning  (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1903.02741" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1903.02741">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="http://wellyzhang.github.io/project/raven.html">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -78,7 +78,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -88,7 +88,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection
 (AAAI 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.00038" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.00038">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cadene/block.bootstrap.pytorch">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -97,7 +97,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Dynamic Capsule Attention for Visual Question Answering (AAAI 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi2.3610.pdf" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi2.3610.pdf">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/XMUVQA/CapsAtt">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -106,7 +106,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering
 (AAAI 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://www.semanticscholar.org/paper/Beyond-RNNs%3A-Positional-Self-Attention-with-for-Li-Song/565359aac8914505e6b02db05822ee63d3ffd03a" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://www.semanticscholar.org/paper/Beyond-RNNs%3A-Positional-Self-Attention-with-for-Li-Song/565359aac8914505e6b02db05822ee63d3ffd03a" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/lixiangpengcs/PSAC">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -114,7 +114,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Free VQA Models from Knowledge Inertia by Pairwise Inconformity Learning (AAAI 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi1.1233.pdf" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi1.1233.pdf" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/xiangmingLi/PIL">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -123,7 +123,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Focal Visual-Text Attention for Memex Question Answering (TPAMI 2019)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8603827/" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8603827/" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://memexqa.cs.cmu.edu/">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -131,7 +131,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Co-Attending Free-Form Regions and Detections with Multi-Modal Multiplicative Feature Embedding for Visual Question Answering (AAAI 2018)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16249" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16249" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/lupantech/dual-mfa-vqa/">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
@@ -139,7 +139,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Textbook Question Answering Under Instructor Guidance With Memory Networks  (CVPR 2018)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Textbook_Question_Answering_CVPR_2018_paper.html" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Textbook_Question_Answering_CVPR_2018_paper.html" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/freerailway/igmn">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr> 
@@ -147,7 +147,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Explore Multi-Step Reasoning in Video Question Answering  (ACM MM 2018)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://doi.org/10.1145/3240508.3240563" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://doi.org/10.1145/3240508.3240563" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/SVQA-founder/SVQA/tree/master/code">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr> 
@@ -156,7 +156,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>Visual Question Generation for Class Acquisition of Unknown Objects (ECCV 2018)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Kohei_Uehara_Visual_Question_Generation_ECCV_2018_paper.html" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_ECCV_2018/html/Kohei_Uehara_Visual_Question_Generation_ECCV_2018_paper.html" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/mil-tokyo/vqg-unknown">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr> 
@@ -164,7 +164,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;"><strong>A Better Way to Attend: Attention With Trees for Video Question Answering (TIP 2018)</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://ieeexplore.ieee.org/document/8419716" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://ieeexplore.ieee.org/document/8419716">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/xuehy/TreeAttention">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>  
@@ -172,21 +172,21 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">&nbsp;1</td>
 <td style="width: 172px;">Yan Zhang, Jonathon Hare, Adam Pr&uuml;gel-Bennett:&nbsp;<strong>Learning to Count Objects in Natural Images for Visual Question Answering</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1802.05766" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1802.05766" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cyanogenoid/vqa-counting">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 <tr>
 <td style="width: 28px;">2&nbsp;</td>
 <td style="width: 172px;">Stanislaw Antol, Aishwarya Agrawal, Jiasen Lu, Margaret Mitchell, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh,&nbsp;<strong>VQA: Visual Question Answering</strong>, ICCV, 2015.</td>
-<td style="width: 80px;"><a href="http://arxiv.org/pdf/1505.00468" rel="nofollow">[Paper]</a></td>
+<td style="width: 80px;"><a href="http://arxiv.org/pdf/1505.00468" >[Paper]</a></td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/JamesChuanggg/VQA-tensorflow">[Code]</a></td>
 <td style="width: 55px;">2015</td>
 </tr>
 <tr>
 <td style="width: 28px;">3&nbsp;</td>
 <td style="width: 172px;">Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola,&nbsp;<strong>Stacked Attention Networks for Image Question Answering</strong>, CVPR 2016.&nbsp;</td>
-<td style="width: 80px;"><a href="http://arxiv.org/abs/1511.02274" rel="nofollow">[Paper]</a></td>
+<td style="width: 80px;"><a href="http://arxiv.org/abs/1511.02274">[Paper]</a></td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/JamesChuanggg/san-torch">[Code]</a></td>
 <td style="width: 55px;">2016</td>
 </tr>
@@ -204,7 +204,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">
 <p>Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach,&nbsp;<strong>Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding</strong>, arXiv:1606.01847, 2016.&nbsp;</p>
 </td>
-<td style="width: 80px;"><a href="https://arxiv.org/abs/1606.01847" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;"><a href="https://arxiv.org/abs/1606.01847" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/akirafukui/vqa-mcb">[Code]</a></td>
 <td style="width: 55px;">2016</td>
 </tr>
@@ -213,7 +213,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">
 <p>Vahid Kazemi, Ali Elqursh,&nbsp;<strong>Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering</strong>, arXiv:1704.03162, 2016.&nbsp;</p>
 </td>
-<td style="width: 80px;"><a href="https://arxiv.org/abs/1704.03162" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;"><a href="https://arxiv.org/abs/1704.03162" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cyanogenoid/pytorch-vqa">[Code]</a></td>
 <td style="width: 55px;">2016</td>
 </tr>
@@ -222,7 +222,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">
 <p>Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome:&nbsp;<strong>MUTAN: Multimodal Tucker Fusion for Visual Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/pdf/1705.06676.pdf" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/pdf/1705.06676.pdf" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cadene/vqa.pytorch">[Code]</a></td>
 <td style="width: 55px;">2017</td>
 </tr>
@@ -231,7 +231,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">
 <p><strong>Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/pdf/1502.05698v1.pdf" rel="nofollow">[Paper]</a></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/pdf/1502.05698v1.pdf" >[Paper]</a></td>
 <td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/facebook/bAbI-tasks">[Code]</a></td>
 <td style="width: 55px;">2015</td>
 </tr>
