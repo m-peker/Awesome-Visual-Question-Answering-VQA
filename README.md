@@ -315,3 +315,50 @@ A reading list (and code) of resources dedicated to visual(image/video) question
 </tr>
 </tbody>
 </table>
+
+<p><strong><span style="color: red;">Datasets</span></strong></p>
+
+<table>
+<tr>
+<th></th>
+<th>Title</th>
+<th>Link</th>
+</tr>
+  
+<tr>
+<td>1</td>
+<td>VQA-v1 Dataset</td>
+<td><a href="https://visualqa.org/vqa_v1_download.html">Link</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>VQA-v2 Dataset</td>
+<td><a href="https://visualqa.org/download.html">Link</a></td>
+</tr>
+
+
+<tr>
+<td>3</td>
+<td>VizWiz-VQA v1.0</td>
+<td><a href="https://vizwiz.org/download/245/">Link</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>VizWiz-VQA v2.0</td>
+<td><a href="https://vizwiz.org/download/247/">Link</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>TDIUC dataset</td>
+<td><a href="https://kushalkafle.com/projects/tdiuc">Link</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>MemexQA dataset</td>
+<td><a href="https://memexqa.cs.cmu.edu/#dataset">Link</a></td>
+</tr>
+</table>
