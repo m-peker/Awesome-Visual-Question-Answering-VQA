@@ -26,7 +26,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>Deep Modular Co-Attention Networks for Visual Question Answering (CVPR 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/MILVLG/mcan-vqa">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 
@@ -53,7 +53,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" rel="nofollow">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 
@@ -62,7 +62,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>MUREL: Multimodal Relational Reasoning for Visual Question Answering  (CVPR 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.09487" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cadene/murel.bootstrap.pytorch">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 
@@ -71,7 +71,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>RAVEN: A Dataset for Relational and Analogical Visual Reasoning  (CVPR 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1903.02741">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="http://wellyzhang.github.io/project/raven.html">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 
@@ -80,7 +80,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>Explainable and Explicit Visual Reasoning over Scene Graphs  (CVPR 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1812.01855" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/shijx12/XNM-Net">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 
@@ -90,7 +90,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 (AAAI 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1902.00038">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/Cadene/block.bootstrap.pytorch">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 
@@ -99,7 +99,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>Dynamic Capsule Attention for Visual Question Answering (AAAI 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi2.3610.pdf">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/XMUVQA/CapsAtt">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 <tr>
@@ -108,7 +108,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 (AAAI 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://www.semanticscholar.org/paper/Beyond-RNNs%3A-Positional-Self-Attention-with-for-Li-Song/565359aac8914505e6b02db05822ee63d3ffd03a" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/lixiangpengcs/PSAC">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 <tr>
@@ -116,7 +116,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>Free VQA Models from Knowledge Inertia by Pairwise Inconformity Learning (AAAI 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi1.1233.pdf" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://github.com/xiangmingLi/PIL">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 --
@@ -125,7 +125,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;"><strong>Focal Visual-Text Attention for Memex Question Answering (TPAMI 2019)</strong></td>
 <td style="width: 80px;">&nbsp;<a href="https://ieeexplore.ieee.org/abstract/document/8603827/" >[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;"><a href="https://memexqa.cs.cmu.edu/">[Code]</a></td>
-<td style="width: 55px;">2018</td>
+<td style="width: 55px;">2019</td>
 </tr>
 
 <tr>
@@ -379,7 +379,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <p><strong>Structured Triplet Learning with POS-tag Guided Attention for Visual Question Answering</strong></p>
 </td>
 <td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1801.07853">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/wangzheallen/STL-VQA">[Paper]</a></td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/wangzheallen/STL-VQA">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 <tr>
