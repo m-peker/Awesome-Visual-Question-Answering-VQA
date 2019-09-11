@@ -315,7 +315,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 28px;">18&nbsp;</td>
 <td style="width: 172px;"><strong>Question Answering on Knowledge Bases and Text using Universal Schema and Memory Networks</strong></td>
-<td style="width: 80px;">&nbsp;&nbsp;<a href=" https://arxiv.org/abs/1704.08384" rel="nofollow">[Paper]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;&nbsp;<a href="https://arxiv.org/abs/1704.08384" rel="nofollow">[Paper]</a>&nbsp;</td>
 <td style="width: 70px; text-align: center;">&nbsp;&nbsp;<a href="https://github.com/rajarshd/TextKBQA" rel="nofollow">[Code]</a>&nbsp;</td>
 <td style="width: 55px;">2017</td>
 </tr>
@@ -333,8 +333,8 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">&nbsp;
 <p><strong>Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href=" https://arxiv.org/abs/1707.07998">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href=" https://github.com//peteanderson80/bottom-up-attention">[Code]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1707.07998">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com//peteanderson80/bottom-up-attention">[Code]</a>&nbsp;</td>
 <td style="width: 55px;">2018</td>
 </tr>
 <tr>
@@ -343,7 +343,7 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <p><strong>Structured Attentions for Visual Question Answering</strong></p>
 </td>
 <td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1708.02071">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href=" https://github.com/zhuchen03/vqa-sva">[Code]</a></td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/zhuchen03/vqa-sva">[Code]</a></td>
 <td style="width: 55px;">&nbsp;2017</td>
 </tr>
 <tr>
