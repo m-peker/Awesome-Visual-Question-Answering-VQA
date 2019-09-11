@@ -324,8 +324,8 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">&nbsp;
 <p><strong>Learning Convolutional Text Representations for Visual Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;&nbsp;<a href="https://arxiv.org/abs/1705.06824" rel="nofollow">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/divelab/vqa-text" rel="nofollow">[Code]</a></td>
+<td style="width: 80px;">&nbsp;&nbsp;<a href="https://arxiv.org/abs/1705.06824">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/divelab/vqa-text">[Code]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 <tr>
@@ -333,8 +333,8 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">&nbsp;
 <p><strong>Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href=" https://arxiv.org/abs/1707.07998" rel="nofollow">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href=" https://github.com//peteanderson80/bottom-up-attention" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href=" https://arxiv.org/abs/1707.07998">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href=" https://github.com//peteanderson80/bottom-up-attention">[Code]</a>&nbsp;</td>
 <td style="width: 55px;">2018</td>
 </tr>
 <tr>
@@ -342,8 +342,8 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">
 <p><strong>Structured Attentions for Visual Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1708.02071" rel="nofollow">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href=" https://github.com/zhuchen03/vqa-sva" rel="nofollow">[Code]</a></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1708.02071">[Paper]</a></td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href=" https://github.com/zhuchen03/vqa-sva">[Code]</a></td>
 <td style="width: 55px;">&nbsp;2017</td>
 </tr>
 <tr>
@@ -351,8 +351,8 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">&nbsp;
 <p><strong>Question Dependent Recurrent Entity Network for Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1707.07922" rel="nofollow">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/andreamad8/QDREN" rel="nofollow">[Code]</a></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1707.07922">[Paper]</a></td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/andreamad8/QDREN">[Code]</a></td>
 <td style="width: 55px;">2017</td>
 </tr>
 <tr>
@@ -360,8 +360,8 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">&nbsp;
 <p><strong>DCN+: Mixed Objective and Deep Residual Coattention for Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1707.07922" rel="nofollow">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href="https://arxiv.org/abs/1707.07922" rel="nofollow">[Code]</a></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1707.07922">[Paper]</a></td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://arxiv.org/abs/1707.07922">[Code]</a></td>
 <td style="width: 55px;">2017</td>
 </tr>
 <tr>
@@ -369,8 +369,8 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">&nbsp;
 <p><strong>Embodied Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.11543" rel="nofollow">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;&nbsp;<a href="https://github.com/facebookresearch/EmbodiedQA" rel="nofollow">[Code]</a></td>
+<td style="width: 80px;">&nbsp;&nbsp;<a href="https://arxiv.org/abs/1711.11543">[Paper]</a></td>
+<td style="width: 70px; text-align: center;">&nbsp;&nbsp;<a href="https://github.com/facebookresearch/EmbodiedQA">[Code]</a></td>
 <td style="width: 55px;">2017</td>
 </tr>
 <tr>
@@ -378,15 +378,15 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <td style="width: 172px;">&nbsp;
 <p><strong>Structured Triplet Learning with POS-tag Guided Attention for Visual Question Answering</strong></p>
 </td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1801.07853" rel="nofollow">[Paper]</a></td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/wangzheallen/STL-VQA" rel="nofollow">[Paper]</a></td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1801.07853">[Paper]</a></td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/wangzheallen/STL-VQA">[Paper]</a></td>
 <td style="width: 55px;">2018</td>
 </tr>
 <tr>
 <td style="width: 28px;">26&nbsp;</td>
 <td style="width: 172px;"><strong>Bilinear Attention Networks</strong></td>
-<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1805.07932" rel="nofollow">[Paper]</a>&nbsp;</td>
-<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/jnhwkim/ban-vqa" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 80px;">&nbsp;<a href="https://arxiv.org/abs/1805.07932">[Paper]</a>&nbsp;</td>
+<td style="width: 70px; text-align: center;">&nbsp;<a href="https://github.com/jnhwkim/ban-vqa">[Code]</a>&nbsp;</td>
 <td style="width: 55px;">2018</td>
 </tr>
 <tr>
@@ -423,45 +423,45 @@ Please feel free to send me email (pekermusa@gmail.com) to add links.
 <tr>
 <td style="width: 29px;">&nbsp;1</td>
 <td style="width: 258px;"><strong>VQA Demo: Visual Question Answering Demo on pretrained model</strong></td>
-<td style="width: 141px;">&nbsp;<a href="https://github.com/iamaaditya/VQA_Demo" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/iamaaditya/VQA_Demo">[Code]</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 29px;">2&nbsp;</td>
 <td style="width: 258px;"><strong>Deep-QA: Implementation of the Convolution Neural Network for factoid QA on the answer sentence selection task</strong></td>
-<td style="width: 141px;">&nbsp;<a href="https://github.com/aseveryn/deep-qa" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/aseveryn/deep-qa" >[Code]</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 29px;">3&nbsp;</td>
 <td style="width: 258px;"><strong>InsuranceQA-CNN-LSTM: Tensorflow and Theano CNN code for insurance QA(question Answer matching)</strong></td>
-<td style="width: 141px;">&nbsp;<a href="https://github.com/white127/insuranceQA-cnn-lstm" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/white127/insuranceQA-cnn-lstm">[Code]</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 29px;">4&nbsp;</td>
 <td style="width: 258px;">&nbsp;
 <p><strong>Tensorflow Implementation of Deeper LSTM+ normalized CNN for Visual Question Answering</strong></p>
 </td>
-<td style="width: 141px;">&nbsp;<a href="https://github.com/JamesChuanggg/VQA-tensorflow" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/JamesChuanggg/VQA-tensorflow" >[Code]</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 29px;">5&nbsp;</td>
 <td style="width: 258px;">&nbsp;
 <p><strong>Visual Question Answering with Keras</strong></p>
 </td>
-<td style="width: 141px;">&nbsp;<a href="https://github.com/anantzoid/VQA-Keras-Visual-Question-Answering" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/anantzoid/VQA-Keras-Visual-Question-Answering" >[Code]</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 29px;">6&nbsp;</td>
 <td style="width: 258px;">
 <p><strong>Visual Question Answering in Pytorch</strong></p>
 </td>
-<td style="width: 141px;">&nbsp;<a href="https://github.com/Cadene/vqa.pytorch" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/Cadene/vqa.pytorch" >[Code]</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 29px;">7&nbsp;</td>
 <td style="width: 258px;">
 <p><strong>Deep QA: Using deep learning to answer Aristo&rsquo;s science questions</strong></p>
 </td>
-<td style="width: 141px;">&nbsp;<a href="https://github.com/allenai/deep_qa" rel="nofollow">[Code]</a>&nbsp;</td>
+<td style="width: 141px;">&nbsp;<a href="https://github.com/allenai/deep_qa" >[Code]</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 29px;">&nbsp;</td>
